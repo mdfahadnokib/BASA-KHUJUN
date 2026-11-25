@@ -85,7 +85,7 @@ Explore the rental discovery features and interactive demo workflows.
 ## 🌐 Live Project & Repository
 
 * **Live Demo:**https://basakhujun.vercel.app/
-* **GitHub Repository:** https://github.com/mdfahadnokib/BASA-KHUJUN
+* **GitHub Repository:** https://github.com/mdfahadnokib/BASA-KHUJUN.git
 
 ---
 
